@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "number-formatter-duchangyu",
   "version": "0.0.1",
   "description": "A number formartter, as an starter npm packaet",
   "main": "index.js",
