@@ -1,0 +1,30 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "A number formartter, as an starter npm packaet",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12.6"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duchangyu/number-formatter.git"
+  },
+  "keywords": [
+    "number",
+    "formartter"
+  ],
+  "author": "Changyu Du <duchangyu@gmail.com> (duchangyu.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duchangyu/number-formatter/issues"
+  },
+  "homepage": "https://github.com/duchangyu/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
