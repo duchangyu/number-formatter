@@ -10,4 +10,4 @@ script :
   - npm run cover
 
 # send coverage data to Coveralls
-after_script : "cat coverage/icov.info | node_modules/coveralls/bin/coveralls.js"
+after_script : "cat coverage/Icov.info | node_modules/coveralls/bin/coveralls.js"
