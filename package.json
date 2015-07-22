@@ -1,6 +1,6 @@
 {
   "name": "number-formatter-duchangyu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A number formartter, as an starter npm packaet",
   "main": "index.js",
   "engines": {
